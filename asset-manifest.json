@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/website/static/js/main.540c03f7.js",
-    "static/media/tokenLogoPNG.png": "/website/static/media/tokenLogoPNG.6999972956d8a78ae30e.png",
+    "main.js": "/static/js/main.540c03f7.js",
+    "static/media/tokenLogoPNG.png": "/static/media/tokenLogoPNG.6999972956d8a78ae30e.png",
     "index.html": "/index.html",
-    "main.540c03f7.js.map": "/website/static/js/main.540c03f7.js.map"
+    "main.540c03f7.js.map": "/static/js/main.540c03f7.js.map"
   },
   "entrypoints": [
-    "/website/static/js/main.540c03f7.js"
+    "static/js/main.540c03f7.js"
   ]
 }
